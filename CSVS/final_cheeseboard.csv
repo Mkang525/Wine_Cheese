@@ -1,0 +1,179 @@
+Cheese,Type, Wines, Beverages,Fruits/Vegetables,Breads/Crackers,Condiments/Nuts,Meats/Fish
+Blue Cheese,blue,Dessert, Apple juice, Apples, Crusty bread, Black olives, Beef
+Blue Cheese,blue, Red, Coffee, Carrots, Nut bread, Honey , Fish 
+Blue Cheese,blue, Sparkling, Gin  , Celery, Whole grain crackers,Pecans, Ham 
+Blue Cheese,blue,,Lambic  , Dried  cranberries,,,Poultry
+Blue Cheese,blue,,Pear nectar, Cucumbers,,,Shellfish
+Blue Cheese,blue,, Stout, Pears,,,
+Blue Cheese,blue,,,,,,
+Creamy Blue ,blue, Dessert, Apple juice, Apricots (fresh or dried) , Fruit bread, Almonds, Beef
+Creamy Blue ,blue, Red,Coffee,Celery, Whole grain crackers, Black olives, Fish 
+Creamy Blue ,blue, Sparkling, Gin  , Cucumbers, Water crackers, Dates, Ham 
+Creamy Blue ,blue,,Lambic  , Figs,,,Poultry
+Creamy Blue ,blue,,Pear nectar, Pears,,,Shellfish
+Creamy Blue ,blue,, Stout,,,,
+Gorgonzola,blue, Dessert, Apple juice, Apples, Crusty bread, Black olives, Beef
+Gorgonzola,blue, Red,Coffee, Bell peppers, Nut bread, Raisins, Fish 
+Gorgonzola,blue, Sparkling, Gin  , Carrots, Pumpernickel, Walnuts, Ham 
+Gorgonzola,blue,,Lambic  , Citrus fruits  ,,,Poultry
+Gorgonzola,blue,,Pear nectar,Dried cranberries,,,Shellfish
+Gorgonzola,blue,, Stout, Tomatoes,,,
+Roquefort,blue, Dessert, Apple juice, Apricots (fresh or dried), Crusty bread, Black olives,Beef
+Roquefort,blue, Red,Coffee, Apples, Whole grain crackers, Dates, Fish 
+Roquefort,blue, Sparkling, Gin  , Avocados, Water crackers, Roasted red peppers, Ham 
+Roquefort,blue,,Lambic  , Celery,,,Poultry
+Roquefort,blue,,Pear nectar, Cucumbers,, ,Shellfish
+Roquefort,blue,, Stout, Grapes,,,
+Stilton,blue, Dessert, Apple juice, Bell peppers,,,
+Stilton,blue, Red, Coffee, Carrots, Nut bread, Honey , Beef
+Stilton,blue, Sparkling, Gin  , Celery, Pumpernickel, Roasted red peppers, Fish 
+Stilton,blue,,Lambic  , Dried  cranberries, Wheat crackers,Pecans, Ham 
+Stilton,blue,,Pear nectar, Figs,,,Shellfish
+Stilton,blue,, Stout, Pears,,,Poultry
+Stilton,blue,,,,,,
+Appenzeller,hard, Fruity red, Bock, Apples, Raisin bread, Almonds, Ham 
+Appenzeller,hard, White, Light beer, Carrots, Sourdough bread, Fruit butter, Poultry
+Appenzeller,hard,,, Cucumbers,Whole grain crackers , Pickles, Prosciutto
+Appenzeller,hard,,, Melons ,,,Pork
+Appenzeller,hard,,, Strawberries,,,
+Appenzeller,hard,,,Radishes,,,
+Gruyere,hard, Fruity white, Cider , Apples, Pumpernickel, Mustard, Ham 
+Gruyere,hard, Red, Porter, Figs, Wheat crackers, Pecans, Poultry
+Gruyere,hard,, Stout, Mushrooms, Whole grain bread, Pickles, Veal
+Gruyere,hard,, Tomato juice, Pears,,,Pork
+Gruyere,hard,,Cranberry juice, Potato dishes ,,,
+Gruyere,hard,,,Red peppers,,,
+Parmesan,hard, Dessert, Ale, Celery,Flatbread, Balsamic vinegar , Beef
+Parmesan,hard, Red,Coffee, Figs, Fruit bread, Raisins, Ham 
+Parmesan,hard, Sparkling, Espresso, Grapes, Pumpernickel, Walnuts, Poultry
+Parmesan,hard,,, Plums,,, Prosciutto
+Parmesan,hard,,, Tomatoes,,, Salami
+Parmesan,hard,,, Zucchini dishes ,,,Pork
+Pecorino Romano,hard, Red, Light beer, Apples, Fruit bread, Fruit butter, Beef
+Pecorino Romano,hard, White ,, Bell peppers, Sourdough bread,, Prosciutto
+Pecorino Romano,hard,,, Carrots, Whole grain crackers,, Salami
+Pecorino Romano,hard,,, Celery,,,
+Pecorino Romano,hard,,, Melons ,,,
+Pecorino Romano,hard,,,Plums,,,
+Romano  ,hard,Red, Ale, Cucumbers, Flatbread, Olives,Beef
+Romano  ,hard,, Cider Apples, Figs, Fruit bread, Pepperon-cini,Pork
+Romano  ,hard,,, Pears, Rye bread, Honey , Ham 
+Romano  ,hard,,, Tomatoes,,, Poultry
+Romano  ,hard,,, Zucchini dishes,,, Prosciutto
+Romano  ,hard,,,,,, Salami
+Havarti,semi-sort hard, Fruity red, Pilsner, Carrots, Melba toast, Almonds,Poultry
+Havarti,semi-sort hard, Light red, Stout, Cucumbers, Rye bread, Chutney, Seafood
+Havarti,semi-sort hard,,, Dates, Water crackers, Roasted red peppers , Smoked turkey
+Havarti,semi-sort hard,,, Pears,,,
+Havarti,semi-sort hard,,, Plums,,,
+Havarti,semi-sort hard,,, Zucchini,,,
+Limburger,semi-sort hard, Brut sparkling, Bock, Apples, Dark bread, Mustard, Cold cuts
+Limburger,semi-sort hard, White, India pale ale, Celery, Rye bread, Pickles, Kippered herring
+Limburger,semi-sort hard,,, Onions , Pretzels, Walnuts, Sardines
+Limburger,semi-sort hard,,,Pears,,,
+Monterey Jack,semi-sort hard, Aged red, Cran-raspberry juice, Apples,Melba toast, Cashews, Bratwurst
+Monterey Jack,semi-sort hard, Fruity white, Lambic , Bell peppers, Pretzels, Mustard, Cold cuts
+Monterey Jack,semi-sort hard,,Tomato juice, Cherries Grapes, Pumpernickel, Pickles, Ham 
+Monterey Jack,semi-sort hard,,, Mushrooms,, Raisins,Pastrami
+Monterey Jack,semi-sort hard,,, Potato dishes ,,,
+Mozzarella,semi-sort hard, Fruity red, Apple juice, Apples, Dark bread, Chutney, Sausage
+Mozzarella,semi-sort hard, Fruity white, Cranberry juice, Bell peppers, Nut bread, Mustard, Seafood
+Mozzarella,semi-sort hard,, Hot or iced tea, Carrots, Wheat crackers, Pickles, Smoked turkey
+Mozzarella,semi-sort hard,, Pilsner, Grapes,, Walnuts,
+Mozzarella,semi-sort hard,,, Melon ,,,
+Mozzarella,semi-sort hard,,,Tomatoes,,,
+Port Salut,semi-sort hard, Fruity red, Amber ale, Apples, Rye bread, Fruit butter, Beef
+Port Salut,semi-sort hard, Light red,, Carrots, Whole grain bread, Mustard, Ham 
+Port Salut,semi-sort hard,,, Celery, Pumpernickel, Pecans, Sardines
+Port Salut,semi-sort hard,,, Grapes,,,Pork
+Port Salut,semi-sort hard,,, Plums,,,
+Port Salut,semi-sort hard,,, Zucchini,,,
+American,semi-hard, Fruity white, Apple juice,Apples, Pretzels, Mustard, Ham
+American,semi-hard, Light red, White grape juice ,Broccoli, Water crackers, Pickles, Bologna
+American,semi-hard,,,Carrots, Wheat crackers, Raisins, Casseroles
+American,semi-hard,,,Celery,,,
+American,semi-hard,,,Grapes,,,
+American,semi-hard,,,Pears,,,
+Baby Swiss,semi-hard, Aged red, Apple juice, Apples,Fruit bread, Cashews, Ham
+Baby Swiss,semi-hard, Fruity white, Lager Stout, Celery,Water crackers, Fruit butter, Chicken 
+Baby Swiss,semi-hard,,, Grapes,Wheat crackers, Mustard,Corned beef
+Baby Swiss,semi-hard,,, Mushrooms,,,
+Baby Swiss,semi-hard,,, Pears,,,
+Baby Swiss,semi-hard,,, Potato dishes ,,,
+Cheddar,semi-hard, Dessert wines, Pale ale, Apples,Dark bread, Cashews, Beef
+Cheddar,semi-hard, Red, Sparkling cider, Apricots (fresh/dried),Melba toast, Chutney, Bologna
+Cheddar,semi-hard,, Stout, Broccoli,Pretzels, Mustard, Ham 
+Cheddar,semi-hard,,, Cherries (fresh/dried),,,Smoked  turkey
+Cheddar,semi-hard,,, Red peppers,,,Summer sausage 
+Cheddar,semi-hard,,,Tomatoes,,,
+Colby/Colby Jack,semi-hard,Blush ,Lager  ,Apples,Melba toast, Salsa, Beef
+Colby/Colby Jack,semi-hard,Red,Pilsner ,Grapes, Water crackers, Almonds, Bratwurst
+Colby/Colby Jack,semi-hard,,White grapefruit juice,Red peppers, Wheat crackers, Hot sweet mustard, Ham 
+Colby/Colby Jack,semi-hard,,,Strawberries,,, Summer sausage
+Colby/Colby Jack,semi-hard,,,Tomatoes,,,Pork
+Colby/Colby Jack,semi-hard,,,Melons ,,,
+Colby/Colby Jack,semi-hard,,,Onions,,,
+Brie/Camembert,soft, Fruity red, Cider , Apples, Crusty bread, Almonds, Beef
+Brie/Camembert,soft, Sparkling,White grape juice , Carrots, Melba toast, Chutney, Lamb 
+Brie/Camembert,soft,,Lambic-style  beer , Dried fruit, Water table crackers, Sweet pickles, Seafood
+Brie/Camembert,soft,,, Mushrooms,,,Poultry
+Brie/Camembert,soft,,, Pears,,,
+Brie/Camembert,soft,,, Tomatoes,,,
+Chevre,soft, White, White grape juice, Berries, French  baguettes,Sun-dried tomatoes,Chicken 
+Chevre,soft,,, Carrots, Herb crackers, Almonds,Smoked meats
+Chevre,soft,,, Cucumbers, Sourdough, Marmalade ,Fish
+Chevre,soft,,, Dried apricots,,,
+Chevre,soft,,, Dried  cranberries,,,
+Chevre,soft,,, Tomatoes,,,
+Feta,soft, Dry white, Pilsner-style ,Mangos, Breadsticks,Olives,Poultry
+Feta,soft, Light red,Lemonade,Cucumbers, Pita, Honey , Lamb 
+Feta,soft,,beer ,Figs, Pumpernickel, Pine nuts, Seafood
+Feta,soft,,,Green bean dishes,,,
+Feta,soft,,,Melons,,,
+Feta,soft,,,Tomatoes,,,
+Mascarpone,soft, Fruity red,Cider,Berries, Ladyfingers, Chocolate, Poultry
+Mascarpone,soft, Sparkling,Hot  chocolate,Carrots, Shortbread, Pecans, Seafood
+Mascarpone,soft,, Sparkling water,Celery, Vanilla wafers, Caramel sauce,
+Mascarpone,soft,,,Cherries ,,,
+Mascarpone,soft,,,Strawberries,,,
+Queso Fresco,soft, White, Margaritas,Black beans , Cuban bread,Olives, Pork
+Queso Fresco,soft, Sangria,,Citrus fruits, Pita, Honey , Turkey
+Queso Fresco,soft,,,Avocados, Tortillas, Salsa,
+Queso Fresco,soft,,,Papayas,,,
+Queso Fresco,soft,,,  Mangos ,,,
+Queso Fresco,soft,,, Tomatoes,,,
+Edam (mild),semi-hard, Fruity red, Lager , Carrots, Dark bread, Almonds, Beef
+Edam (mild),semi-hard, Fruity white,Stout, Celery, Flatbread, Chutney, Cold cuts
+Edam (mild),semi-hard,,, Cucumbers, Rye bread, Mustard, Ham 
+Edam (mild),semi-hard,,, Dried  cranberries, Wheat crackers,, Prosciutto
+Edam (mild),semi-hard,,, Peaches,,,Pork
+Edam (mild),semi-hard,,, Pears,,,
+Emmental,semi-hard, Fruity red, Cran-raspberry juice , Apples, Melba toast, Dates, Cold cuts
+Emmental,semi-hard,, Lambic, Bell peppers, Pretzels, Mustard, Corned beef
+Emmental,semi-hard,, Pale ale, Cherries Grapes, Pumpernickel, Pickles, Ham 
+Emmental,semi-hard,,, Mushrooms,,, Prosciutto
+Emmental,semi-hard,,, Potato dishes,,,Pastrami
+Gouda (mild),semi-hard, Fruity red, Cranberry juice, Apricots (fresh/dried),Flatbread, Almonds, Beef
+Gouda (mild),semi-hard, Fruity white, Lager , Carrots, Rye bread, Mustard, Cold cuts
+Gouda (mild),semi-hard,, Pilsner, Celery, Wheat crackers, Pickles, Ham 
+Gouda (mild),semi-hard,, Stout, Cucumbers, Whole wheat bread, Raisins, Prosciutto
+Gouda (mild),semi-hard,,Lemonade, Grapes,,,Pork
+Gouda (mild),semi-hard,,, Melon ,,,
+Muenster,semi-hard, Fruity white, Cider   , Apples, Dark bread, Chutney, Sausage
+Muenster,semi-hard, Light red,Lager, Bell peppers, Nut bread, Mustard, Seafood
+Muenster,semi-hard, Spicy white,Pilsner, Grapes, Wheat crackers, Pickles, Smoked turkey
+Muenster,semi-hard,,, Pears,, Walnuts,
+Muenster,semi-hard,,, Radishes,,,
+Muenster,semi-hard,,, Spinach dishes ,,,
+Muenster,semi-hard,,,Tomatoes, Breadsticks, Pesto, Beef
+Provolone,semi-hard, Fruity red, Ale, Bell peppers, Flatbread, Mustard, Cured meat
+Provolone,semi-hard, Light red,Tomato juice, Figs, Wheat crackers, Walnuts, Ham 
+Provolone,semi-hard, Spicy white, Lager , Grapes,,, Prosciutto
+Provolone,semi-hard,,, Pears,,,Pork
+Provolone,semi-hard,,, Tomatoes,,,
+Swiss,semi-hard, Fruity white, Cran-raspberry Juice , Apples,Melba toast, Cashews, Bratwurst
+Swiss,semi-hard, Aged red, Lambic, Bell peppers, Pretzels, Mustard, Cold cuts
+Swiss,semi-hard,, Tomato juice, Cherries , Pumpernickel, Pickles, Ham 
+Swiss,semi-hard,,, Mushrooms,, Raisins,Pastrami
+Swiss,semi-hard,,, Potato dishes ,,,
+Swiss,semi-hard,,,Grapes,,,
